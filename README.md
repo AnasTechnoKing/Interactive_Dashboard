@@ -18,3 +18,4 @@ You can choose between different gradient color themes, using these radio button
 Everything is possible with this basic interactive Excel dashboard and just, as a recap, what makes this dashboard, really powerful? It all off. And with a slices at the bottom, you can filter your underlying data from basically any angle. So for example, we can filter our dashboard shots by single years, All we can even apply multi-select so that multiple years can be selected. Is that all these slices down there are working together. last of all, we have this beautiful and progressive design in every single element of this dashboard. 
 
 View/ Download The Dashbaord 
+https://github.com/AnasTechnoKing/Interactive_Dashboard/blob/main/Copy%20of%20Ultimate%20Excel%20Dashboard%20_%20Sample%20Data%20_%20ExcelFind1.xlsm
